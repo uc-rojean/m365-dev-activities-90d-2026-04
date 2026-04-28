@@ -16,3 +16,10 @@
 - Telemetry confirms baseline platform availability
 
 ---
+
+
+### UC Day 03 Verification
+- Graph read-only access revalidated.
+- No SharePoint or OneDrive calls executed.
+
+---
