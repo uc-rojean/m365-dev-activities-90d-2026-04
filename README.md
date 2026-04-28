@@ -39,8 +39,8 @@
 ---
 
 
-### UC Day 01 – 90 days remaining (April 26, 2026, Sunday)
-- **Planned Date:** April 26, 2026 (90 days remaining)
+### UC Day 01 – 89 days remaining (April 26, 2026, Sunday)
+- **Planned Date:** April 26, 2026 (89 days remaining)
 - **Actual Run:** April 27, 2026 01:29 GMT+8 — Documentation-only update
 - **Status:** Completed
 
@@ -68,8 +68,8 @@
 ---
 
 
-### UC Day 02 – 89 days remaining (April 27, 2026, Monday)
-- **Planned Date:** April 27, 2026 (89 days remaining)
+### UC Day 02 – 88 days remaining (April 27, 2026, Monday)
+- **Planned Date:** April 27, 2026 (88 days remaining)
 - **Actual Run:** April 27, 2026 01:32 GMT+8 — Normal development activities completed
 - **Status:** Completed
 
@@ -97,8 +97,8 @@
 ---
 
 
-### UC Day 03 – 88 days remaining (April 28, 2026, Tuesday)
-- **Planned Date:** April 28, 2026 (88 days remaining)
+### UC Day 03 – 87 days remaining (April 28, 2026, Tuesday)
+- **Planned Date:** April 28, 2026 (87 days remaining)
 - **Actual Run:** April 28, 2026 16:03 GMT+8 — Normal development activities completed
 - **Status:** Completed
 
