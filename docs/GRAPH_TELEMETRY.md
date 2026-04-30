@@ -39,3 +39,12 @@
 - No SharePoint or OneDrive endpoints invoked.
 
 ---
+
+
+### UC Day 06 Verification
+- Continued Microsoft Graph read-only queries executed.
+- Access stability and consistent responses observed.
+- SharePoint / OneDrive endpoints intentionally excluded.
+``
+
+---
