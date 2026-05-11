@@ -65,3 +65,11 @@
 - No SharePoint or OneDrive endpoints invoked.
 
 ---
+
+
+### UC Day 16 Verification
+- Microsoft Graph read-only access validated.
+- Stable responses observed across previously tested endpoints.
+- No SharePoint or OneDrive endpoints executed.
+
+---
