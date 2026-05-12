@@ -73,3 +73,10 @@
 - No SharePoint or OneDrive endpoints executed.
 
 ---
+
+
+### UC Day 18 Verification
+- Microsoft Graph read-only access validated.
+- Consistent responses observed
+
+---
