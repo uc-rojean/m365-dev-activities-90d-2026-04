@@ -578,3 +578,35 @@
 
 
 ---
+
+
+### UC Day 20 – 70 days remaining (May 15, 2026, Friday)
+- **Planned Date:** May 15, 2026 (70 days remaining)
+- **Actual Run:** May 15, 2026 06:46 GMT+8 — Normal development activities completed
+- **Status:** Completed
+
+#### Situation / Context
+- UC Day 20 continued structured development activities while SharePoint / OneDrive access remains unavailable.
+- Microsoft Support requested specific portal and admin center URLs as part of the ongoing backend investigation.
+- The requested URLs were provided in response to Support to assist with further analysis.
+
+#### Dev Activities
+- Maintained Microsoft Graph read-only telemetry to preserve consistent platform usage signals.
+- Continued SP/OD-independent development activities aligned with current access constraints.
+- Responded to Microsoft Support by providing the requested Microsoft 365 Admin Center and SharePoint Admin Center URLs.
+- Committed updates to maintain UC cadence, documentation accuracy, and traceability.
+
+#### Support & Escalation Tracking
+- Microsoft Support case remains active and escalated to the backend team.
+- Support requested the following information:
+  - Microsoft 365 Admin Center portal URL
+  - SharePoint Admin Center URL
+- The requested URLs were shared in a response to Support.
+- No new backend resolution or restoration timeline has been provided as of this session.
+
+#### Notes
+- UC Day 20 reflects continued cooperation with Microsoft Support while maintaining realistic and transparent documentation.
+- Development activities remain disciplined and audit-ready without dependency on SharePoint / OneDrive access.
+- The project continues to demonstrate consistent engagement while awaiting service restoration.
+
+---
